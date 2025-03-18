@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\ChatBotFileApi.deps.json
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\ChatBotFileApi.runtimeconfig.json
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\appsettings.Development.json
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\appsettings.json
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\ChatBotFileApi.exe
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\ChatBotFileApi.dll
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\itextsharp.dll
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\Dell\source\repos\ChatBotFileApi\bin\Debug\ChatBotFileApi.pdb
+C:\Users\Dell\source\repos\ChatBotFileApi\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ChatBotFileApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ChatBotFileApi\obj\Debug\docker-c.35A3FFBA.Up2Date

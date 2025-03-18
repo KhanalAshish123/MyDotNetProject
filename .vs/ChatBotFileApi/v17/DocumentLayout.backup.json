@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\ChatBotFileApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64608D36-ACC9-4966-A952-6DFEC198DDD4}|ChatBotFileApi\\ChatBotFileApi.csproj|c:\\users\\dell\\source\\repos\\chatbotfileapi\\chatbotfileapi\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64608D36-ACC9-4966-A952-6DFEC198DDD4}|ChatBotFileApi\\ChatBotFileApi.csproj|solutionrelative:chatbotfileapi\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64608D36-ACC9-4966-A952-6DFEC198DDD4}|ChatBotFileApi\\ChatBotFileApi.csproj|c:\\users\\dell\\source\\repos\\chatbotfileapi\\chatbotfileapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64608D36-ACC9-4966-A952-6DFEC198DDD4}|ChatBotFileApi\\ChatBotFileApi.csproj|solutionrelative:chatbotfileapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ChatBotFileApi\\ChatBotFileApi\\Program.cs",
+              "RelativeDocumentMoniker": "ChatBotFileApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ChatBotFileApi\\ChatBotFileApi\\Program.cs",
+              "RelativeToolTip": "ChatBotFileApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:23:03.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatBotController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ChatBotFileApi\\ChatBotFileApi\\Controllers\\ChatBotController.cs",
+              "RelativeDocumentMoniker": "ChatBotFileApi\\Controllers\\ChatBotController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ChatBotFileApi\\ChatBotFileApi\\Controllers\\ChatBotController.cs",
+              "RelativeToolTip": "ChatBotFileApi\\Controllers\\ChatBotController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:21:34.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
